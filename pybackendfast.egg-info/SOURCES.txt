@@ -2,10 +2,16 @@ README.md
 setup.py
 accounts/__init__.py
 accounts/routes.py
+authorization/__init__.py
+authorization/routes.py
+doffing/__init__.py
+doffing/routes.py
 hrms/__init__.py
 hrms/routes.py
 inventory/__init__.py
 inventory/routes.py
+master/__init__.py
+master/routes.py
 pybackendfast.egg-info/PKG-INFO
 pybackendfast.egg-info/SOURCES.txt
 pybackendfast.egg-info/dependency_links.txt
