@@ -43,5 +43,6 @@ docker run -p 8000:5004 pybackendfast
 docker tag pybackendfast <your-dockerhub-username>/pybackendfast:latest
 docker push <your-dockerhub-username>/pybackendfast:latest
 
-
+# pull from docker hub
+docker pull <your-dockerhub-username>/pybackendfast:latest
 
